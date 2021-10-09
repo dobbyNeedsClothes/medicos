@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homePage"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/doctorPrescription"
+        android:title="@string/doctor"
+        android:icon="@drawable/event_note"/>
+
+    <item
+        android:id="@+id/patientInfo"
+        android:title="@string/doIt"
+        android:icon="@drawable/find_replace"/>
+
+
+</menu>
